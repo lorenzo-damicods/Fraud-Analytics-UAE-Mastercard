@@ -48,6 +48,7 @@ To anchor the analysis to the UAE context, I injected synthetic domain-specific 
 
 ---
 
+
 ### 📂 Repository Structure
 ```text
 .
@@ -57,3 +58,10 @@ To anchor the analysis to the UAE context, I injected synthetic domain-specific 
 ├── images/                 # Charts and plots generated during analysis
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
+
+---
+### ⚠️ Data Disclaimer
+
+This project uses a simulation based on the publicly available "Credit-Card Fraud Detection" dataset from Kaggle. Domain-specific features (Geo-location, Customer Type, etc.) were synthetically generated to demonstrate business logic and adaptation capabilities for the UAE market. In a production environment, the model would require retraining on real transaction streams to account for actual concept drift.
+
+
