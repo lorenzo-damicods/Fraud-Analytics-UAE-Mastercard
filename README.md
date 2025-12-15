@@ -54,6 +54,20 @@ This project uses a simulation based on the publicly available "Credit-Card Frau
 
 --- 
 
+🔮 Future Work
+
+    Integration of Time-series velocity features.
+
+    Inclusion of Device Fingerprinting data.
+
+    Testing LightGBM or Graph-based models to improve Precision (currently ~6%).
+
+    SHAP analysis for Responsible AI and explainability.
+
+    Potential deployment within Brighterion AI Studio.
+
+Author: Lorenzo D'Amico
+
 ### 📂 Repository Structure
 ```text
 .
