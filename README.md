@@ -71,10 +71,9 @@ Author: Lorenzo D'Amico
 ### 📂 Repository Structure
 ```text
 .
-├── data/                   # Contains dataset (or link to source)
-├── notebooks/              # Jupyter Notebooks for EDA and Modeling
-├── src/                    # (Optional) Source code for preprocessing scripts
-├── proof                   # A summary of the project logic, methodology, and key business findings.
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+├── data/                                               # Contains dataset (or link to source)
+├── project_full_eda+smote_for_mastercard.ipynb         # Jupyter Notebooks for EDA and Modeling
+├── proof_of_concept.pdf                                # A summary of the project logic, methodology, and key business findings.
+├── requirements.txt                                    # Python dependencies
+└── README.md                                           # Project documentation
 
