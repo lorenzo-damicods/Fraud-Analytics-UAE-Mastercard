@@ -74,7 +74,7 @@ Author: Lorenzo D'Amico
 ├── data/                   # Contains dataset (or link to source)
 ├── notebooks/              # Jupyter Notebooks for EDA and Modeling
 ├── src/                    # (Optional) Source code for preprocessing scripts
-├── images/                 # Charts and plots generated during analysis
+├── proof                   # A summary of the project logic, methodology, and key business findings.
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 
